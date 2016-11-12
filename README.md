@@ -1,5 +1,5 @@
 #Florithmetic
-A small math game by Aaron Tan
+A small math game by Aaron Tan.
 
 ## Description
 A band of small insects need your help in math to get back to their insect homes! Play along to charming music, characters, and animation; at the same time, improve basic math skills. Perfect for young children.
@@ -20,6 +20,7 @@ A band of small insects need your help in math to get back to their insect homes
 ![alt tag](https://github.com/cheeseisdisgusting/florithmetic/blob/master/screenshots/Game.PNG)
 
 *Score*
+
 ![alt tag](https://github.com/cheeseisdisgusting/florithmetic/blob/master/screenshots/results.PNG)
 
 ## Install Instructions
